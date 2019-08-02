@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on あにんじゃ on rails</title>
-    <link>https://aaaa.ninja/posts/</link>
+    <link>https://aaaaninja.netlify.com/posts/</link>
     <description>Recent content in Posts on あにんじゃ on rails</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Thu, 04 Jul 2019 21:08:21 +0900</lastBuildDate>
     
-	<atom:link href="https://aaaa.ninja/posts/feed.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aaaaninja.netlify.com/posts/feed.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ほんとぉ?</title>
-      <link>https://aaaa.ninja/posts/my-first-post/</link>
+      <link>https://aaaaninja.netlify.com/posts/my-first-post/</link>
       <pubDate>Thu, 04 Jul 2019 21:08:21 +0900</pubDate>
       
-      <guid>https://aaaa.ninja/posts/my-first-post/</guid>
+      <guid>https://aaaaninja.netlify.com/posts/my-first-post/</guid>
       <description>まずまずなにを書きましょうか それですよ
 あれですよ あれしってるぅ?
 しらないひと 多分 私
@@ -26,8 +26,8 @@
 まじしんどい scrapbox つかってみたさ
 赤色 
 みたいな嘘も……
-asdf = &amp;quot;hogehoge&amp;quot; puts asdf.delete &amp;quot;&amp;amp;hoge&amp;quot;  asdf = &amp;quot;hgoehoge&amp;quot; ii = 2 + 3 - 1234 print(ii) print(asdf)  なぜこれが許され?
-echo mugaaaaaaa docker run --rm -v &amp;quot;$PWD:/usr/share/site&amp;quot; nantoka/hugo hugo  syntax highlightが効いてくれない件について かなしすぎるぞ</description>
+asdf = &amp;#34;hogehoge&amp;#34; puts asdf.delete &amp;#34;&amp;amp;hoge&amp;#34;asdf = &amp;#34;hgoehoge&amp;#34; ii = 2 + 3 - 1234 print(ii) print(asdf) なぜこれが許され?
+echo mugaaaaaaa docker run --rm -v &amp;#34;$PWD:/usr/share/site&amp;#34; nantoka/hugo hugo syntax highlightが効いてくれない件について かなしすぎるぞ</description>
     </item>
     
   </channel>
