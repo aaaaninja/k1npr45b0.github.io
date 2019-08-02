@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on あにんじゃ on rails</title>
+    <link>https://aaaa.ninja/posts/</link>
+    <description>Recent content in Posts on あにんじゃ on rails</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Thu, 04 Jul 2019 21:08:21 +0900</lastBuildDate>
+    
+	<atom:link href="https://aaaa.ninja/posts/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ほんとぉ?</title>
+      <link>https://aaaa.ninja/posts/my-first-post/</link>
+      <pubDate>Thu, 04 Jul 2019 21:08:21 +0900</pubDate>
+      
+      <guid>https://aaaa.ninja/posts/my-first-post/</guid>
+      <description>まずまずなにを書きましょうか それですよ
+あれですよ あれしってるぅ?
+しらないひと 多分 私
+しってるひと 私 以外
+どうでもよさげ とりあえずtableを書いてみようか……
+   hoge huga piyo     hogehoge hugahuga piyopiyo     mugamuga   satesate あああああ もう無理ぽ&amp;hellip;&amp;hellip;    aaaaninja
+まじしんどい scrapbox つかってみたさ
+赤色 
+みたいな嘘も……
+asdf = &amp;quot;hogehoge&amp;quot; puts asdf.delete &amp;quot;&amp;amp;hoge&amp;quot;  asdf = &amp;quot;hgoehoge&amp;quot; ii = 2 + 3 - 1234 print(ii) print(asdf)  なぜこれが許され?
+echo mugaaaaaaa docker run --rm -v &amp;quot;$PWD:/usr/share/site&amp;quot; nantoka/hugo hugo  syntax highlightが効いてくれない件について かなしすぎるぞ</description>
+    </item>
+    
+  </channel>
+</rss>

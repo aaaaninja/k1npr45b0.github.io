@@ -1,0 +1,17 @@
+baseURL = "https://k1npr45b0.github.io"
+languageCode = "ja-JP"
+title = "あにんじゃ on rails"
+theme = "hugo_theme_robust"
+pygmentsCodefences = true # pygmentsUseClasses = true
+googleAnalytics = "UA-145084199-1"
+
+[params]
+  description = "無知無知の知/人生アンチパターン集"
+  AuthorName = "Jon Doe"
+  GitHubUser = "spf13"
+  ListOfFoo = ["foo1", "foo2"]
+  SidebarRecentLimit = 5
+  Subtitle = "Hugo is Absurdly Fast!"
+
+[outputFormats.RSS]
+  baseName = "feed"
