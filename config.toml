@@ -4,6 +4,8 @@ title = "あにんじゃ on rails"
 theme = "hugo_theme_robust"
 pygmentsCodefences = true # pygmentsUseClasses = true
 googleAnalytics = "UA-145084199-1"
+enableGitInfo = true
+hasCJKLanguage = "true"
 
 [params]
   description = "無知無知の知/人生アンチパターン集"

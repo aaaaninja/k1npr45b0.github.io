@@ -2,6 +2,7 @@
 title: "ほんとぉ?"
 date: 2019-07-04T21:08:21+09:00
 draft: false
+toc: true
 ---
 
 まずまずなにを書きましょうか
@@ -85,4 +86,4 @@ syntax highlightが効いてくれない件について
 ```toml
 pygmentsCodefences = true
 ```
-こいつをconfig.tomlについきするだけでいけた.
+こいつをconfig.tomlに追記するだけでいけた.
