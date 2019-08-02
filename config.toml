@@ -1,4 +1,4 @@
-baseURL = "https://aaaaninja.netlify.com/my-first-post/"
+baseURL = "https://aaaaninja.netlify.com"
 languageCode = "ja-JP"
 title = "あにんじゃ on rails"
 theme = "hugo_theme_robust"
