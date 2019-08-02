@@ -1,8 +1,8 @@
----
-title: "My First Post"
-date: 2019-07-06T21:08:21+09:00
-draft: false
----
++++
+title = "My First Post"
+date = 2019-07-06T21:08:21+09:00
+draft = false
++++
 
 なんもないけどね……
 ====================
