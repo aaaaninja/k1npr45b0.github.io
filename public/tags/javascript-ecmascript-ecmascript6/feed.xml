@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JavaScript ECMAScript ECMAScript6 on あにんじゃ on rails</title>
+    <link>https://aaaaninja.netlify.com/tags/javascript-ecmascript-ecmascript6/</link>
+    <description>Recent content in JavaScript ECMAScript ECMAScript6 on あにんじゃ on rails</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    
+	<atom:link href="https://aaaaninja.netlify.com/tags/javascript-ecmascript-ecmascript6/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>JavaScript の ジェネレータ を極める！</title>
+      <link>https://aaaaninja.netlify.com/darui/hgoe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaaaninja.netlify.com/darui/hgoe/</guid>
+      <description>native campはじめました…… なぜしゃべれない……!! *ECMAScript 6*（2015年6月に公開され、今もなお比較的新しい *JavaScript*）の大目玉で</description>
+    </item>
+    
+  </channel>
+</rss>

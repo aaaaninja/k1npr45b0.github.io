@@ -17,7 +17,16 @@
       <pubDate>Sat, 06 Jul 2019 21:08:21 +0900</pubDate>
       
       <guid>https://aaaaninja.netlify.com/my-first-post/</guid>
-      <description> なんもないけどね…… </description>
+      <description>なんもないけどね……</description>
+    </item>
+    
+    <item>
+      <title>ぜんぜんfirstじゃない......</title>
+      <link>https://aaaaninja.netlify.com/hoge/</link>
+      <pubDate>Sat, 06 Jul 2019 21:08:21 +0900</pubDate>
+      
+      <guid>https://aaaaninja.netlify.com/hoge/</guid>
+      <description>ababababauaaa 画像が表示されるか (page bunldesで!!) 実験してるお!! これはどうです? hogeほげ</description>
     </item>
     
     <item>
@@ -26,26 +35,16 @@
       <pubDate>Thu, 04 Jul 2019 21:08:21 +0900</pubDate>
       
       <guid>https://aaaaninja.netlify.com/posts/my-first-post/</guid>
-      <description>まずまずなにを書きましょうか それですよ
-あれですよ あれしってるぅ?
-しらないひと 多分 私
-しってるひと 私 以外
-どうでもよさげ とりあえずtableを書いてみようか……
-   hoge huga piyo     hogehoge hugahuga piyopiyo     mugamuga   satesate あああああ もう無理ぽ&amp;hellip;&amp;hellip;    aaaaninja
-まじしんどい scrapbox つかってみたさ
-赤色 
-みたいな嘘も……
-asdf = &amp;#34;hogehoge&amp;#34; puts asdf.delete &amp;#34;&amp;amp;hoge&amp;#34;asdf = &amp;#34;hgoehoge&amp;#34; ii = 2 + 3 - 1234 print(ii) print(asdf) なぜこれが許され?
-echo mugaaaaaaa docker run --rm -v &amp;#34;$PWD:/usr/share/site&amp;#34; nantoka/hugo hugo syntax highlightが効いてくれない件について かなしすぎるぞ</description>
+      <description>まずまずなにを書きましょうか それですよ あれですよ あれしってるぅ? しらないひと 多分 私 しってるひと 私 以外 どうでもよさげ とりあえずtableを書い</description>
     </item>
     
     <item>
-      <title></title>
+      <title>JavaScript の ジェネレータ を極める！</title>
       <link>https://aaaaninja.netlify.com/darui/hgoe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://aaaaninja.netlify.com/darui/hgoe/</guid>
-      <description>native campはじめました…… なぜしゃべれない……!!</description>
+      <description>native campはじめました…… なぜしゃべれない……!! *ECMAScript 6*（2015年6月に公開され、今もなお比較的新しい *JavaScript*）の大目玉で</description>
     </item>
     
   </channel>
