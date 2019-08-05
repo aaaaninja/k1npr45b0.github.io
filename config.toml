@@ -8,7 +8,7 @@ enableGitInfo = true
 hasCJKLanguage = "true"
 
 [params]
-  description = "無知無知の知/人生アンチパターン集"
+  description = "しゃかいのはぐるまぁ!!"
   AuthorName = "Jon Doe"
   GitHubUser = "spf13"
   ListOfFoo = ["foo1", "foo2"]
