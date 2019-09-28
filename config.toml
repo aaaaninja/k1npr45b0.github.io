@@ -17,3 +17,6 @@ hasCJKLanguage = "true"
 
 [outputFormats.RSS]
   baseName = "feed"
+
+[outputs]
+  page = [ "HTML", "AMP" ]
