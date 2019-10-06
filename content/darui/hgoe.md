@@ -1,5 +1,6 @@
 ---
 title: JavaScript の ジェネレータ を極める！
+tags: [hoge, huga, piyo]
 ---
 
 native campはじめました……
