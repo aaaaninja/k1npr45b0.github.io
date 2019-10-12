@@ -1,1 +1,3 @@
 ここは `hugo` の実験場です……......
+
+本物はこちらへ…... -> <https://gitlab.com/aaaaninja/blog>
